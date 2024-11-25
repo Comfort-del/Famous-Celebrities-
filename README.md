@@ -9,7 +9,7 @@ This project will analyze the provided data and deliver actionable insights to g
 - Does celebrity networth affect their rating?
 - Profession of a celebrity and their networth.
 - Which celebrities have the highest networth, actors or singers?
-- Interactive Dashboard -
+- Interactive Dashboard - <a href= "https://github.com/Comfort-del/Famous-Celebrities-/commit/4d040c11fda0d2812a18b89d6e8df80ba1f56841#diff-a0daa65537db833189721e52e88c389304a123ec80d6f31a6b5f13f0232ecbaa">View Dashboard <a/>
 ## Process
 - Checked for missing values and duplicates for data quality.
 - Wrote queries in SQL.
